@@ -1,20 +1,21 @@
-##This website is made by [Rishi S. Malnad](https://github.com/HambyOrigin) based off of the [Openblog](https://astro.build/themes/details/openblog/) template.
+## This website is made by [Rishi S. Malnad](https://github.com/HambyOrigin) based off of the [Openblog](https://astro.build/themes/details/openblog/) template.
 
-##This project uses the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license.
+## This project uses the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license.
 
-#Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
-####By exercising the Licensed Rights (defined below), You accept and agree
+#### By exercising the Licensed Rights (defined below), You accept and agree
+
 to be bound by the terms and conditions of this Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International Public License
 ("Public License"). To the extent this Public License may be
 interpreted as a contract, You are granted the Licensed Rights in
 consideration of Your acceptance of these terms and conditions, and the
-Licensor grants You such rights in consideration of benefits the
+Licensor grants `You such rights in consideration of benefits the
 Licensor receives from making the Licensed Material available under
 these terms and conditions.
 
-###Section 1 -- Definitions.
+### Section 1 -- Definitions.
 
 a. Adapted Material means material subject to Copyright and Similar
 Rights that is derived from or based upon the Licensed Material
@@ -93,7 +94,7 @@ equivalent rights anywhere in the world.
 n. You means the individual or entity exercising the Licensed Rights
 under this Public License. Your has a corresponding meaning.
 
-##Section 2 -- Scope.
+## Section 2 -- Scope.
 
 a. License grant.
 
@@ -178,7 +179,7 @@ b. Other rights.
           the Licensed Material is used other than for NonCommercial
           purposes.
 
-###Section 3 -- License Conditions.
+### Section 3 -- License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the
 following conditions.
@@ -243,7 +244,7 @@ b. ShareAlike.
           Measures to, Adapted Material that restrict exercise of the
           rights granted under the Adapter's License You apply.
 
-###Section 4 -- Sui Generis Database Rights.
+### Section 4 -- Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that
 apply to Your use of the Licensed Material:
@@ -266,7 +267,7 @@ For the avoidance of doubt, this Section 4 supplements and does not
 replace Your obligations under this Public License where the Licensed
 Rights include other Copyright and Similar Rights.
 
-###Section 5 -- Disclaimer of Warranties and Limitation of Liability.
+### Section 5 -- Disclaimer of Warranties and Limitation of Liability.
 
 a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
 EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
@@ -294,7 +295,7 @@ above shall be interpreted in a manner that, to the extent
 possible, most closely approximates an absolute disclaimer and
 waiver of all liability.
 
-###Section 6 -- Term and Termination.
+### Section 6 -- Term and Termination.
 
 a. This Public License applies for the term of the Copyright and
 Similar Rights licensed here. However, if You fail to comply with
@@ -322,7 +323,7 @@ will not terminate this Public License.
 d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
 License.
 
-###Section 7 -- Other Terms and Conditions.
+### Section 7 -- Other Terms and Conditions.
 
 a. The Licensor shall not be bound by any additional or different
 terms or conditions communicated by You unless expressly agreed.
@@ -331,7 +332,7 @@ b. Any arrangements, understandings, or agreements regarding the
 Licensed Material not stated herein are separate from and
 independent of the terms and conditions of this Public License.
 
-###Section 8 -- Interpretation.
+### Section 8 -- Interpretation.
 
 a. For the avoidance of doubt, this Public License does not, and
 shall not be interpreted to, reduce, limit, restrict, or impose
