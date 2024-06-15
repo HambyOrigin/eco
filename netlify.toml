@@ -1,2 +1,2 @@
 [build]
-  command = 'pnpm build'
+  command = 'tinacms build && astro build'
