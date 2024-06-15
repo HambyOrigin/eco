@@ -2,8 +2,7 @@
 
 ##This project uses the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license.
 
-#Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-#Public License
+#Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
 ####By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons
