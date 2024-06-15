@@ -6,24 +6,21 @@ import MenuIcon from './icons/MenuIcon.astro'
 import Search from '@/components/Search'
 import TagIcon from './icons/TagIcon.astro'
 import ToggleTheme from './ToggleTheme.astro'
+import Image from 'astro/components/Image.astro'
+import earthIcon from '../assets/images/earth.png'
 
 // ADD YOUR SOCIAL NETWORKS HERE
 const SOCIALNETWORKS = [
 	{
 		name: 'Github',
-		url: 'https://github.com/danielcgilibert/blog-template',
+		url: 'https://github.com/HambyOrigin',
 		icon: GithubIcon
-	},
-
-	{
-		name: 'Twitter',
-		url: 'https://github.com/danielcgilibert/blog-template',
-		icon: TwitterIcon
 	}
 ]
 ---
 
 <header class='relative flex items-center h-12 font-semibold'>
+	<Image src={earthIcon} alt='Pixelated image of Earth.' height='90vw' />
 	<a class='text-lg mr-auto' href='/'>Home</a>
 
 	<div

@@ -1,6 +1,8 @@
 ---
 import Title from './Title.astro'
 import Shape from './icons/Shape.astro'
+import Image from 'astro/components/Image.astro'
+import earthIcon from '../assets/images/earth.png'
 type Props = {
 	title: string
 }
@@ -8,7 +10,6 @@ type Props = {
 const { title } = Astro.props
 ---
 
-<div class='flex justify-start items-center gap-2 title'>
-	<Shape />
-	<Title>{title}</Title>
+<div class='gap-2 title flex items-center justify-center'>
+	<Title>EcoClub</Title>
 </div>
