@@ -5,7 +5,7 @@ const branch =
 	process.env.GITHUB_BRANCH || process.env.VERCEL_GIT_COMMIT_REF || process.env.HEAD || 'main'
 
 export default defineConfig({
-	branch,
+	branch: 'main',
 
 	// Get this from tina.io
 	clientId: 'afd73c33-e6ae-4a87-8282-4beafb07f1b0',
